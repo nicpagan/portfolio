@@ -4,6 +4,10 @@ body {
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+img {
+  height: 350px;
+}
+
 h2 {
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 20px;
@@ -124,4 +128,5 @@ a:link {
 a:visited {
   color: #b55dcf;
 }
+  
   
